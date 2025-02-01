@@ -161,7 +161,7 @@ plt.show()
 ---
 ---
 ## 🔗 Dataset link  
-[![Open in Google Drive](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Google_Drive_logo.svg/1200px-Google_Drive_logo.svg.png)](https://drive.google.com/file/d/1i_tsF-2MOPwKRvgXBSjHkKKqsFgvdhzQ/view?usp=sharing)
+[![Open in Google Drive](https://upload.wikimedia.org/wikipedia/commons/0/0f/Google_Drive_logo.svg)](https://drive.google.com/file/d/1i_tsF-2MOPwKRvgXBSjHkKKqsFgvdhzQ/view?usp=sharing)
 
 
 ---
