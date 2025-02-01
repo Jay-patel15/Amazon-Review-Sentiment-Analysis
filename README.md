@@ -29,7 +29,7 @@ This project analyzes **Amazon product reviews** using **Natural Language Proces
 
 ### 🔹 Step 1: Open in Google Colab  
 Click the link below to open the project in **Google Colab**:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK_HERE)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BOU20wdaELCpZXPnQb6HZ1xUbVds684j)  
 
 ### 🔹 Step 2: Install Required Libraries  
 Run the following command in Colab to install missing dependencies:  
@@ -162,7 +162,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 🔗 Colab Notebook  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK_HERE)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BOU20wdaELCpZXPnQb6HZ1xUbVds684j)  
 
 ---
 
