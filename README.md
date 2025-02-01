@@ -1,6 +1,4 @@
-Here's the updated **GitHub README.md** tailored for **Google Colab** usage:  
 
----
 
 # 🛒 Amazon Review Sentiment Analysis  
 
@@ -131,14 +129,14 @@ plt.show()
    ax.set_xlabel('Review Stars')
    plt.show()
    ```
-   ![Review Distribution](https://via.placeholder.com/600x300)  
+   
 
 2. **VADER vs. RoBERTa Sentiment Comparison**  
    ```python
    sns.pairplot(data=df, vars=['vader_sentiment', 'roberta_neg', 'roberta_neu', 'roberta_pos'], hue='Score', palette='tab10')
    plt.show()
    ```
-   ![Sentiment Comparison](https://via.placeholder.com/600x300)  
+   
 
 ---
 
@@ -155,10 +153,6 @@ plt.show()
 - Implement **real-time review analysis for e-commerce platforms**.  
 
 ---
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
-
 ---
 
 ## 🔗 Colab Notebook  
