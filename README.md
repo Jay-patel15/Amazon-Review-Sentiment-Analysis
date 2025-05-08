@@ -161,7 +161,7 @@ plt.show()
 ---
 ---
 ## 🔗 Dataset link  
-[![Open in Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data)
+(https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data)
 
 
 ---
