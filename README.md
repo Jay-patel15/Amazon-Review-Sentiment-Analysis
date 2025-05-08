@@ -153,12 +153,7 @@ plt.show()
 - Implement **real-time review analysis for e-commerce platforms**.  
 
 ---
----
 
-## 🔗 Colab Notebook  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BOU20wdaELCpZXPnQb6HZ1xUbVds684j)  
-
----
 ---
 ## 🔗 Dataset link  
 (https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data)
