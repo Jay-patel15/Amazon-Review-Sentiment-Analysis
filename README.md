@@ -161,7 +161,7 @@ plt.show()
 ---
 ---
 ## 🔗 Dataset link  
-[![Open in Google Drive](https://upload.wikimedia.org/wikipedia/commons/0/0f/Google_Drive_logo.svg)](https://drive.google.com/file/d/1i_tsF-2MOPwKRvgXBSjHkKKqsFgvdhzQ/view?usp=sharing)
+[![Open in Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data)
 
 
 ---
